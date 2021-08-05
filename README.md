@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AndersonZaji
+- 👋 Hi, I’m @Anderson
 - 👀 I’m interested in software development and robotics
 - 🌱 I’m currently learning coding/programming AI
 - 💞️ I’m looking to collaborate on projects in me interests
